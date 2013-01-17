@@ -1886,5 +1886,7 @@ border-left: 1px solid; border-right: 1px solid; height: 40px; margin-left: -36p
 }
 .main-comment-count {
     background: url("images/count.png") no-repeat scroll 0 3px transparent;
+    font-style: italic;
+    font-weight: bold;
     padding: 0 0 0 23px;
 }
